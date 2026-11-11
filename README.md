@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.viewturbo.com/"><img src="https://assets.vtfly.com/img/logo/logo_48x48.png" width="64" height="64" alt="ViewTurbo logo"></a>
+  <a href="https://www.viewturbo.com/"><img src="https://github.com/user-attachments/assets/f8e82a69-48ff-4ded-b7e0-9d3d85049658" width="96" height="96" alt="ViewTurbo logo"></a>
 </p>
 <h1 align="center">ViewTurbo</h1>
 <h3 align="center">Connection. Made simple.</h3>
