@@ -6,6 +6,14 @@ ViewTurbo is a VPN service designed to make everyday connections simpler, with a
 
 [Website](https://www.viewturbo.com/) · [Download](https://www.viewturbo.com/download) · [Documentation](https://help.viewturbo.com/) · [Plans](https://www.viewturbo.com/charge)
 
+<p align="center">
+  <a href="https://www.viewturbo.com/">
+    <img src="https://assets.vtfly.com/img/client.png" alt="ViewTurbo app showing an active VPN connection" width="320">
+  </a>
+</p>
+
+<p align="center"><em>A closer look at the ViewTurbo app.</em></p>
+
 ## Built for Your Workflow
 
 - **AI tools** — Optimized routes for ChatGPT, Claude, and Gemini, designed to reduce timeouts and connection interruptions.
