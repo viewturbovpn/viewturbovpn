@@ -1,51 +1,55 @@
-# ViewTurbo
-
-**Connection. Made simple.**
-
-ViewTurbo is a VPN service designed to make everyday connections simpler, with a focus on AI tools, developer workflows, and an easy-to-use experience.
-
-[Website](https://www.viewturbo.com/) · [Download](https://www.viewturbo.com/download) · [Documentation](https://help.viewturbo.com/) · [Plans](https://www.viewturbo.com/charge)
-
 <p align="center">
-  <a href="https://www.viewturbo.com/">
-    <img src="https://assets.vtfly.com/img/client.png" alt="ViewTurbo app showing an active VPN connection" width="320">
-  </a>
+  <a href="https://www.viewturbo.com/"><img src="https://assets.vtfly.com/img/logo/logo_48x48.png" width="64" height="64" alt="ViewTurbo logo"></a>
 </p>
-
-<p align="center"><em>A closer look at the ViewTurbo app.</em></p>
-
-## Built for Your Workflow
-
-- **AI tools** — Optimized routes for ChatGPT, Claude, and Gemini, designed to reduce timeouts and connection interruptions.
-- **GitHub** — Support for smoother browsing, repository cloning, release downloads, and everyday collaboration.
-- **Docker registries** — Connection optimization for image pulls and container build workflows.
-- **Everyday use** — Designed for browsing, streaming, and services such as YouTube, Netflix, and Steam.
-
-## Key Features
-
-- **Simple design:** A clean interface that makes connecting straightforward.
-- **Per-app proxy routing:** Choose different connection paths for browsers, AI tools, Git clients, and other applications.
-- **Cross-platform support:** Available for macOS, Windows, Linux, iOS, Android, and soft-router setups.
-- **Flexible ways to start:** Explore the service with trial traffic, then choose a plan that fits your needs.
-
-## Get Started
-
-1. Visit the [download page](https://www.viewturbo.com/download) and choose your platform.
-2. Install the app and sign in to your ViewTurbo account.
-3. Follow the [documentation](https://help.viewturbo.com/) to connect and configure routing for your workflow.
-
-## Resources & Community
-
-| Resource | Link |
-| --- | --- |
-| Official website | [viewturbo.com](https://www.viewturbo.com/) |
-| Help center | [Guides and documentation](https://help.viewturbo.com/) |
-| Downloads | [Get ViewTurbo](https://www.viewturbo.com/download) |
-| Plans | [View available plans](https://www.viewturbo.com/charge) |
-| Telegram | [Join the community](https://t.me/viewturbo) |
-| YouTube | [Watch tutorials](https://www.youtube.com/@viewturbo) |
-| Privacy | [Privacy policy](https://www.viewturbo.com/privacy-policy) |
+<h1 align="center">ViewTurbo</h1>
+<h3 align="center">Connection. Made simple.</h3>
+<p align="center">A simpler connection for AI, development, and everyday life.</p>
+<p align="center">
+  <a href="https://www.viewturbo.com/">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.viewturbo.com/download"><strong>Download ViewTurbo</strong></a> &nbsp;·&nbsp;
+  <a href="https://help.viewturbo.com/">Documentation</a> &nbsp;·&nbsp;
+  <a href="https://www.viewturbo.com/charge">Plans</a>
+</p>
+<p align="center"><strong>macOS · Windows · Linux · iOS · Android · Soft Router</strong></p>
 
 ---
 
-Product details are based on the [official ViewTurbo website](https://www.viewturbo.com/). Availability and features may vary by platform and plan.
+## Stay connected. Stay focused.
+
+ViewTurbo brings an easy-to-use VPN experience to the tools you rely on. From AI conversations to repository downloads, our focus is simple: smoother connections that fit your workflow.
+
+| AI & productivity | Developer workflows | Everyday connections |
+| --- | --- | --- |
+| Optimized routes for **ChatGPT, Claude, and Gemini** | Connection optimization for **GitHub and Docker registries** | Browse, stream, and connect with services such as **YouTube, Netflix, and Steam** |
+
+## Designed around your day
+
+- **Connect with confidence** — A clean interface that keeps the essentials within reach.
+- **Route by app** — Give browsers, AI tools, Git clients, and other applications the connection paths they need.
+- **Move between devices** — Find a client for your desktop, phone, or supported router setup.
+- **Start with a trial** — Try the service with trial traffic and explore the available plans.
+
+<p align="center">
+  <a href="https://www.viewturbo.com/download"><img src="https://assets.vtfly.com/img/client.png" alt="ViewTurbo app showing an active VPN connection" width="260"></a>
+</p>
+<p align="center"><em>Simple controls. A clear connection status. ViewTurbo at a glance.</em></p>
+
+## Ready when you are
+
+1. **[Download the app](https://www.viewturbo.com/download)** for your platform.
+2. **Sign in** to your ViewTurbo account.
+3. **Connect and configure** your preferred routing with the [getting-started guides](https://help.viewturbo.com/).
+
+## Connect with ViewTurbo
+
+| Explore | Learn & connect |
+| --- | --- |
+| [Website](https://www.viewturbo.com/) | [Help center](https://help.viewturbo.com/) |
+| [Downloads](https://www.viewturbo.com/download) | [Telegram community](https://t.me/viewturbo) |
+| [Plans](https://www.viewturbo.com/charge) | [YouTube tutorials](https://www.youtube.com/@viewturbo) |
+
+<p align="center">
+  <a href="https://www.viewturbo.com/privacy-policy">Privacy Policy</a> ·
+  <a href="https://www.viewturbo.com/terms-of-use">Terms of Use</a>
+</p>
+<p align="center"><sub>Features and availability may vary by platform and plan. Visit the website for current product details.</sub></p>
